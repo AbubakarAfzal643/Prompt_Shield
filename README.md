@@ -1,5 +1,9 @@
 # PromptShield
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Detect+prompt+injection.;Flag+risky+requests.;Protect+LLM-powered+apps." alt="Animated text: Detect prompt injection. Flag risky requests. Protect LLM-powered apps.">
+</p>
+
 PromptShield is a proposed lightweight security gateway for applications that use large language models (LLMs). It aims to detect prompt-injection attempts in user prompts and supported external text before they reach a model, then apply configurable security policies.
 
 ## Planned features
