@@ -1,4 +1,6 @@
-# PromptShield
+<h1 align="center">
+  <img src="docs/promptshield-heading.svg" alt="PromptShield">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Detect+prompt+injection.;Flag+risky+requests.;Protect+LLM-powered+apps." alt="Animated text: Detect prompt injection. Flag risky requests. Protect LLM-powered apps.">

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220" role="img" aria-labelledby="title">
+  <title id="title">PromptShield</title>
+  <rect width="820" height="220" rx="12" fill="#151a21"/>
+  <g font-family="'Arial Black', Impact, monospace" font-size="92" font-weight="900" letter-spacing="5" text-anchor="middle">
+    <text x="414" y="100" fill="none" stroke="#36bcf7" stroke-width="3" opacity=".75">PROMPT</text>
+    <text x="406" y="100" fill="none" stroke="#ff4d8d" stroke-width="3" opacity=".75">PROMPT</text>
+    <text x="410" y="100" fill="#f0f6fc" stroke="#f0f6fc" stroke-width="1">PROMPT</text>
+    <text x="414" y="190" fill="none" stroke="#36bcf7" stroke-width="3" opacity=".75">SHIELD</text>
+    <text x="406" y="190" fill="none" stroke="#ff4d8d" stroke-width="3" opacity=".75">SHIELD</text>
+    <text x="410" y="190" fill="#f0f6fc" stroke="#f0f6fc" stroke-width="1">SHIELD</text>
+  </g>
+  <path d="M178 54h464M178 76h464M178 144h464M178 166h464" stroke="#151a21" stroke-width="5" opacity=".9"/>
+  <path d="M178 58h464M178 148h464" stroke="#36bcf7" stroke-width="1" opacity=".5"/>
+</svg>
